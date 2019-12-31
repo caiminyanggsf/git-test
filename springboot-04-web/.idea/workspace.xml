@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab72f4fa-6b5a-4bbb-a4f2-36d9d4e2851e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cmy/springboot04/Springboot04WebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cmy/springboot04/controller/HelloWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cmy/springboot04/Springboot04WebApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/spring01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/src/main/java/com/cmy/HelloWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/src/main/java/com/cmy/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/target/classes/META-INF/spring01.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/target/classes/com/cmy/HelloWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/target/classes/com/cmy/controller/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/target/spring01-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring01/target/spring01-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cmy/springboot04/controller/HelloWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cmy/springboot04/controller/HelloWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +101,7 @@
       <workItem from="1577434254938" duration="990000" />
       <workItem from="1577673345927" duration="480000" />
       <workItem from="1577773994835" duration="165000" />
+      <workItem from="1577774300714" duration="25000" />
     </task>
     <servers />
   </component>
@@ -200,6 +173,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577427157941" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1577774301173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577774301173" />
     <state x="457" y="44" width="755" height="735" key="find.popup" timestamp="1577427756931">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

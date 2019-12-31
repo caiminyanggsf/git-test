@@ -14,6 +14,7 @@ public class HelloWord {
     @ResponseBody
     public String hello()
     {
+        System.out.println("nishiahiajfkdsj");
         return "hello word";
     }
     @RequestMapping("/success")
